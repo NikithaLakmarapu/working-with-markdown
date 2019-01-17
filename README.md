@@ -9,7 +9,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 ```dos
 ## Getting Started
 ```
-- [Love](https://github.com/NikithaLakmarapu/working-with-markdown/blob/master/love.jpg)
+(https://github.com/NikithaLakmarapu/working-with-markdown/blob/master/love.jpg)
 
 1. Login to GitHub.
 1. Click + to add a new repo. 
