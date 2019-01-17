@@ -14,7 +14,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 1. Allow GitHub to create a .gitignore based on the type of project (if needed). 
 1. Allow GitHub to draft a README.md. 
 1. Choose a license if desired. 
-- [Google](https://www.google.com/search?q=google+images&rlz=1C1GCEB_enUS831US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwio0sK34PPfAhURbawKHdcpAykQ_AUIDigB&biw=1366&bih=626#imgrc=EMCbusXEItZtaM:)
+- [Google](https://pbs.twimg.com/profile_images/1057899591708753921/PSpUS-Hp_400x400.jpg)
 
 ## GitHub Pages
 
